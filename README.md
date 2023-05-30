@@ -29,3 +29,5 @@
 
 # setting 설정
 ![image](https://github.com/sxhyxn/react_basic/assets/129706893/ac1cbffe-1b3c-49ff-aafb-23d527dc74ca)
+![image](https://github.com/sxhyxn/react_basic/assets/129706893/00c50a1b-17f7-40da-ab9b-a2ef8af0eb61)
+
