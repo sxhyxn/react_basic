@@ -18,3 +18,8 @@
   * npx create-react-app (내가 만들 앱이름 ex.react_app1)
   * cd react_app1
   * npm start
+
+# SPA : Single Page Application
+ 페이지는 하나인데 여러개인것처럼 눈속임을 한다. 
+ -> 자바스크립트가 해준다. 페이지를 매번 새로고침할 필요가 없음.
+ 웹사이트를 모바일 앱처럼 사용할 수 있음.
