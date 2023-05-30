@@ -13,8 +13,8 @@
  * npm을 이용하여 유용한 라이브러리, 프레임워크를 다운받을 예정
 
 # 2. 폴더생성
-  프로젝트를 만들 폴더를 생성한다. (ex. react)
+  * 프로젝트를 만들 폴더를 생성한다. (ex. react)
 # 3. 리액트에 필요한 패키지를 자동으로 설치해주는 명령어를 입력
-  npx create-react-app (내가 만들 앱이름 ex.react_app1)
-  cd react_app1
-  npm start
+  * npx create-react-app (내가 만들 앱이름 ex.react_app1)
+  * cd react_app1
+  * npm start
