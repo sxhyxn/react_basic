@@ -10,3 +10,7 @@
 ![image](https://github.com/sxhyxn/react_basic/assets/129706893/f511c130-b064-44b2-9fa4-6c989402ae67)
 # 해결방법 -> 부모태그로 싸줘야함 (ex.div or Fragment)
 ![image](https://github.com/sxhyxn/react_basic/assets/129706893/a91f6228-476b-4e0a-b9ba-2174080b3a9b)
+
+# 함수 만들기
+![image](https://github.com/sxhyxn/react_basic/assets/129706893/052ad327-274e-419b-8634-f69c7ffdeac1)
+
