@@ -15,4 +15,5 @@
 ![image](https://github.com/sxhyxn/react_basic/assets/129706893/052ad327-274e-419b-8634-f69c7ffdeac1)
 # 화살표 함수로 바꾸기
 ![image](https://github.com/sxhyxn/react_basic/assets/129706893/b46df376-0e02-48a8-8079-344f19ad75f1)
-
+# 함수를 밖으로 빼기
+![image](https://github.com/sxhyxn/react_basic/assets/129706893/6af95b25-89df-472a-ade5-4e6874809a6a)
