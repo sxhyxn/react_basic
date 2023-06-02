@@ -17,3 +17,11 @@
 ![image](https://github.com/sxhyxn/react_basic/assets/129706893/b46df376-0e02-48a8-8079-344f19ad75f1)
 # 함수를 밖으로 빼기
 ![image](https://github.com/sxhyxn/react_basic/assets/129706893/6af95b25-89df-472a-ade5-4e6874809a6a)
+
+# 클릭하면 함수 실행(Event Handling)
+![image](https://github.com/sxhyxn/react_basic/assets/129706893/d761a6e3-826a-48a6-8582-36088c99dca5)
+==> 화살표함수로 바뀜
+
+![image](https://github.com/sxhyxn/react_basic/assets/129706893/33ba84bb-3b6d-4093-9e5e-b69a12a77fd1)
+==> 함수 밖으로 빼기
+
