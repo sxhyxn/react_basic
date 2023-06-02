@@ -26,8 +26,9 @@
 ![image](https://github.com/sxhyxn/react_basic/assets/129706893/33ba84bb-3b6d-4093-9e5e-b69a12a77fd1)
 
 # 콘솔에는 숫자가 바뀌는데 화면에는 안 바뀜
-react에서는 변수가 바뀐다해서 리랜더링이 일어나진 않음
--> 해결책 ) 리랜더링이 일어나게 하려면 useState(react Hook)를 사용해야 한다.
+  * react에서는 변수가 바뀐다해서 리랜더링이 일어나진 않음
+
 ![image](https://github.com/sxhyxn/react_basic/assets/129706893/3656b0f8-9590-415f-920e-502d8bf58532)
 
+  * 해결책 ) 리랜더링이 일어나게 하려면 useState(react Hook)를 사용해야 한다.
 
