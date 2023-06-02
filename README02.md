@@ -31,4 +31,5 @@
 ![image](https://github.com/sxhyxn/react_basic/assets/129706893/3656b0f8-9590-415f-920e-502d8bf58532)
 
   * 해결책 ) 리랜더링이 일어나게 하려면 useState(react Hook)를 사용해야 한다.
-
+![image](https://github.com/sxhyxn/react_basic/assets/129706893/7fa11817-9872-4f86-93e9-0a55492de42c)
+(바뀌지만 console과 차이남)
