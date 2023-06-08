@@ -10,3 +10,5 @@
 
 # useEffect
 ![image](https://github.com/sxhyxn/react_basic/assets/129706893/d8b26458-cce6-46e7-ac3e-78356de7a4e1)
+![image](https://github.com/sxhyxn/react_basic/assets/129706893/6b6fa4b5-6926-4692-af23-1c272e578476)
+![image](https://github.com/sxhyxn/react_basic/assets/129706893/a8b5d81a-f7e6-444b-bc39-945c1d5013af)
