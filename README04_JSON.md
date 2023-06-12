@@ -17,4 +17,5 @@
 
 # 서버와 통신하기
 ![image](https://github.com/sxhyxn/react_basic/assets/129706893/ee60716d-fa99-4ebb-8747-02356f32a638)
+
         npm i axios
