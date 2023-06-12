@@ -21,3 +21,7 @@
         npm i axios
 
 ![image](https://github.com/sxhyxn/react_basic/assets/129706893/d962ef85-cf87-4c68-a63f-81fe8921afd6)
+
+
+##########
+![image](https://github.com/sxhyxn/react_basic/assets/129706893/7128efa4-2d40-4f37-b9d4-866f8225ed52)
