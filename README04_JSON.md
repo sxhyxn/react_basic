@@ -11,3 +11,5 @@
 # 위와 같이 실행하면 port를 3000번을 실행하기 때문에 react와 중복이 되어버린다.
 # 그래서 port를 변경해주어야한다.
         json-server --watch db.json --port 3004
+# 만역 실행이 안된다면 아래를 적용한다.
+        npx json-server --watch db.json --port 3004
