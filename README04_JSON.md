@@ -13,7 +13,7 @@
         json-server --watch db.json --port 3004
 # 만약 실행이 안된다면 아래를 적용한다.
         npx json-server --watch db.json --port 3004
-
+        제대로 됐는지 확인(터미널에 리소스 주소 들어가보기)
 
 # 서버와 통신하기
 ![image](https://github.com/sxhyxn/react_basic/assets/129706893/ee60716d-fa99-4ebb-8747-02356f32a638)
