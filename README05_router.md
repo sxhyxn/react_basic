@@ -6,3 +6,4 @@
 
 # index.js에 셋팅하기
 ![image](https://github.com/sxhyxn/react_basic/assets/129706893/cec64fd6-cf30-4419-8241-8d07b50c26e8)
+
